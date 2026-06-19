@@ -55,29 +55,20 @@ To improve customer retention and marketing effectiveness, management requires a
 
 ---
 
+## Tools Used
+
+- SQL
+- Google BigQuery
+- Looker Studio
+
+---
+
 ## Dataset
 
 ### Source
 
-UCI Online Retail Dataset
-
-### Period
-
-December 2010 – December 2011
-
-### Description
-
+UCI Online Retail Dataset: December 2010 – December 2011
 The dataset contains transactional records from a UK-based online retailer.
-
-Key fields include:
-
-- Invoice Number
-- Customer ID
-- Invoice Date
-- Product Description
-- Quantity
-- Unit Price
-- Revenue
 
 ---
 
