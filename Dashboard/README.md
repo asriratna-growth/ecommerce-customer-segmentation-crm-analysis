@@ -1,7 +1,6 @@
 # Ecommerce Customer Segmentation, Retention & CRM Analysis
 ![Executive Dashboard](Dashboard/Executive_CRM_Overview.jpg)
 
-
 ## 1. Executive CRM Overview
 
 Key KPIs:
