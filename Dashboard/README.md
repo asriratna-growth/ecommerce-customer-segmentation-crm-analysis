@@ -1,5 +1,4 @@
 # Ecommerce Customer Segmentation, Retention & CRM Analysis
-![Executive Dashboard](Dashboard/Executive_CRM_Overview.jpg)
 
 ## 1. Executive CRM Overview
 
@@ -10,6 +9,8 @@ Key KPIs:
 - AOV
 - Repeat Purchase Rate
 - Average CLV
+
+![Executive Dashboard](Dashboard/Executive_CRM_Overview.jpg)
 
 ---
 
@@ -23,6 +24,8 @@ Highlights:
 - Customer Distribution
 - CRM Recommendations
 
+![Customer Segmentation](Dashboard/Customer_Segmentation.jpg)
+
 ---
 
 ## 3. Retention Dashboard
@@ -35,6 +38,8 @@ Highlights:
 - Frequency Analysis
 - Risk Matrix
 
+![Retention Dashboard](Dashboard/Retention_Dashboard.jpg)
+
 ---
 
 ## 4. Customer Lifetime Value Dashboard
@@ -46,3 +51,5 @@ Highlights:
 - Champions Contribution
 - CLV Distribution
 - Revenue Contribution %
+
+![CLV Dashboard](Dashboard/CLV_Dashboard.jpg)
