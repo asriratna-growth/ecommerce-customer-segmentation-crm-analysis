@@ -1,6 +1,4 @@
 # Ecommerce Customer Segmentation, Retention & CRM Analysis
-
-The project dashboard consists of:
 ![Executive Dashboard](Dashboard/Executive_CRM_Overview.jpg)
 
 
