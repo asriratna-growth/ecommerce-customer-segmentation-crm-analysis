@@ -117,7 +117,7 @@ This project answers:
 
 #### Dashboard Preview
 ##### CLV Dashboard
-![CLV Dashboard](clv_dashboard.jpg)
+![Dashboard](clv_dashboard.jpg)
 
 ---
 
