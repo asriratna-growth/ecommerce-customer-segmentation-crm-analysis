@@ -62,7 +62,7 @@ This project answers:
 
 ### Page 1: Executive CRM Preview
 
-* About This Porject
+* About This Project
 * Total Revenue
 * Total Customers
 * Total Orders
@@ -108,7 +108,7 @@ This project answers:
 
 ### Page 4: CLV Dashboard
 
-* Total CRV
+* Total CLV
 * Average CLV
 * Highest CLV Segment
 * Champions Customers
@@ -194,6 +194,8 @@ Key fields include:
 
 ## Skills Demonstrated
 
+SQL | BigQuery | Looker Studio | CRM Analytics | RFM Analysis | Customer Segmentation | CLV Modeling
+
 - SQL Data Analysis
 - Data Validation & Auditing
 - Marketing Analytics
@@ -231,3 +233,5 @@ Marketing Analytics | Growth Marketing | Digital Marketing | Data Analytics
 LinkedIn: https://www.linkedin.com/in/asriratna/ 
 
 GitHub: https://github.com/asriratna-growth
+
+Looker Studio Dashboard: https://datastudio.google.com/reporting/6ffe1799-45a7-4c2a-8c39-d54594acd3ed 
