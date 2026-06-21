@@ -10,7 +10,7 @@ Key KPIs:
 - Repeat Purchase Rate
 - Average CLV
 
-![Executive Dashboard](Dashboard/Executive_CRM_Overview.jpg)
+![Executive Dashboard](Executive_CRM_Overview.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ Highlights:
 - Customer Distribution
 - CRM Recommendations
 
-![Customer Segmentation](Dashboard/Customer_Segmentation.jpg)
+![Customer Segmentation](Customer_Segmentation.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ Highlights:
 - Frequency Analysis
 - Risk Matrix
 
-![Retention Dashboard](Dashboard/Retention_Dashboard.jpg)
+![Retention Dashboard](Retention_Dashboard.jpg)
 
 ---
 
@@ -52,4 +52,4 @@ Highlights:
 - CLV Distribution
 - Revenue Contribution %
 
-![CLV Dashboard](Dashboard/CLV_Dashboard.jpg)
+![CLV Dashboard](CLV_Dashboard.jpg)
