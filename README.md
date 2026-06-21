@@ -71,6 +71,10 @@ This project answers:
 * Monthly Customer Growth
 * Repeat Purchase Breakdown
 
+#### Dashboard Preview
+##### Executive CRM Preview
+![Executive CRM Overview](Page%201%20-%20Executive%20CRM%20Overview.jpg)
+
 ### Page 2: Customer Segmentation Dashboard
 
 * Total Customer Segmentation Count
@@ -80,6 +84,10 @@ This project answers:
 * Average Orders per Customer by Segment
 * Customer Distribution
 * CRM Recommendations
+
+#### Dashboard Preview
+##### Customer Segmentation Dashboard
+![Customer Segmentation Dashboard](Page%202%20-%20Customer%20Segmentation.jpg)
 
 ### Page 3: Retention Dashboard
 
@@ -92,6 +100,10 @@ This project answers:
 * Revenue at Risk
 * Customer Segment Risk Matrix
 
+#### Dashboard Preview
+##### Retention Dashboard
+![Retention Dashboard](Page%203%20-%20Retention%20Dashboard.jpg)
+
 ### Page 4: CLV Dashboard
 
 * Total CRV
@@ -103,29 +115,9 @@ This project answers:
 * Customer Count by Segment
 * Revenue/CLV Contribution %
 
-### Dashboard Preview
-
-The dashboard was built using Looker Studio and consists of four pages:
-
-- Executive CRM Preview
-- Customer Segmentation Dashboard
-- Retention Dashboard
-- CLV Dashboard
-
-#### Executive CRM Preview
-
-(Images will be inserted here later)
-
-#### Customer Segmentation Dashboard
-
-(Images will be inserted here later)
-
-#### Retention Dashboard
-
-(Images will be inserted here later)
-
-#### CLV Dashboard
-(Images will be inserted here later)
+#### Dashboard Preview
+##### CLV Dashboard
+![CLV Dashboard](Page%204%20-%20CLV%20Dashboard.jpg)
 
 ---
 
