@@ -1,5 +1,8 @@
-# Dashboard
-The project dashboard consists of four pages:
+# Ecommerce Customer Segmentation, Retention & CRM Analysis
+
+The project dashboard consists of:
+![Executive Dashboard](Dashboard/Executive_CRM_Overview.jpg)
+
 
 ## 1. Executive CRM Overview
 
