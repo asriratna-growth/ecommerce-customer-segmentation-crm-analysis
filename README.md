@@ -1,3 +1,5 @@
+![Project Banner](banner.png)
+
 # Ecommerce Customer Segmentation, Retention & CRM Analysis
 
 ## Project Overview
