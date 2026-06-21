@@ -73,7 +73,7 @@ This project answers:
 
 #### Dashboard Preview
 ##### Executive CRM Preview
-![Executive CRM Overview](Page%201%20-%20Executive%20CRM%20Overview.jpg)
+[![Executive CRM Overview](Page%201%20-%20Executive%20CRM%20Overview.jpg)](https://github.com/asriratna-growth/ecommerce-customer-segmentation-crm-analysis/blob/main/Dashboard/Page%201%20-%20Executive%20CRM%20Overview.jpg)
 
 ### Page 2: Customer Segmentation Dashboard
 
