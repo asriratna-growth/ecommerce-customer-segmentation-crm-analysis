@@ -72,8 +72,8 @@ This project answers:
 * Repeat Purchase Breakdown
 
 #### Dashboard Preview
-##### Executive CRM Preview
-![Executive CRM Overview](executive_dashboard.jpg)
+##### Executive CRM Overview
+![Dashboard](executive_dashboard.jpg)
 
 ### Page 2: Customer Segmentation Dashboard
 
