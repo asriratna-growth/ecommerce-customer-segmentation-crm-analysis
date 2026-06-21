@@ -73,7 +73,7 @@ This project answers:
 
 #### Dashboard Preview
 ##### Executive CRM Overview
-![Dashboard](executive_dashboard.jpg)
+![CLV Dashboard](Dashboard/CLV_Dashboard.jpg)
 
 ### Page 2: Customer Segmentation Dashboard
 
@@ -87,7 +87,7 @@ This project answers:
 
 #### Dashboard Preview
 ##### Customer Segmentation Dashboard
-![Customer Segmentation Dashboard](Page%202%20-%20Customer%20Segmentation.jpg)
+![Customer Segmentation](Dashboard/Customer_Segmentation.jpg)
 
 ### Page 3: Retention Dashboard
 
@@ -102,7 +102,7 @@ This project answers:
 
 #### Dashboard Preview
 ##### Retention Dashboard
-![Retention Dashboard](Page%203%20-%20Retention%20Dashboard.jpg)
+![Retention Dashboard](Dashboard/Retention_Dashboard.jpg)
 
 ### Page 4: CLV Dashboard
 
